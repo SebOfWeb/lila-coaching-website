@@ -1,6 +1,6 @@
-# Lila Coaching Website Design System
+# Lilas Coaching Website Design System
 
-Based on our research of successful fitness coaching websites, we've created this design system to guide the development of the Lila Coaching website.
+Based on our research of successful fitness coaching websites, we've created this design system to guide the development of the Lilas Coaching website.
 
 ## Color Palette
 
@@ -71,4 +71,4 @@ The website follows a one-page scrolling design with these sections:
 - Adjusted typography sizing
 - Touch-friendly tap targets (min 44px)
 
-This design system will ensure consistency throughout the website while creating an engaging, professional experience that reflects Lila's coaching brand.
+This design system will ensure consistency throughout the website while creating an engaging, professional experience that reflects Lilas's coaching brand.

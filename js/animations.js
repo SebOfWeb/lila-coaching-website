@@ -1,4 +1,4 @@
-// Animation script for Lila Coaching website
+// Animation script for Lilas Coaching website
 document.addEventListener('DOMContentLoaded', function() {
     // Initialize AOS (Animate On Scroll)
     initScrollAnimations();

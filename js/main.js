@@ -1,4 +1,4 @@
-// Main JavaScript file for Lila Coaching website
+// Main JavaScript file for Lilas Coaching website
 
 document.addEventListener('DOMContentLoaded', function() {
     // Mobile Navigation Toggle
